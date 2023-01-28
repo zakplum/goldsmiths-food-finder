@@ -11,5 +11,5 @@ Features
 
 The website is simple to use, simply browse through the website and use the search and filter options to find restaurants that suit your dietary needs.
 
-<u>Contributions</u>
-As this is a university project, no contributions will be accepted at this time. However, feedback and suggestions are always welcome.
+Contributions
+- As this is a university project, no contributions will be accepted at this time. However, feedback and suggestions are always welcome.
