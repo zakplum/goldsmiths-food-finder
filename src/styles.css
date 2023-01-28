@@ -1,0 +1,30 @@
+input::placeholder 
+{
+    color: black;
+    padding: 8px;
+}
+
+.searchbars
+{
+    margin-right: 1rem;
+    border-radius: 25px;
+    border: solid 1px ;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+    position:relative;
+  }
+  .heading{
+    position:absolute;
+    top:60px;
+  }
+
+  .content-container {
+    position: relative;
+    top: 120px;
+    margin-top: 20px; 
+}
