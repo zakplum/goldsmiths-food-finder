@@ -1,6 +1,6 @@
-<b>Goldsmiths Food Finder</b> is a second year Computing Project for a total of 30 credits, developed by Zak and Mark. The goal of this project is to create a website that allows users with specific dietary preferences, such as allergies or religious or ethical reasons, to easily find restaurants near them that cater to their needs.
+<b>Goldsmiths Food Finder</b> is a second year Computing Project, developed by @marknjr and I. The goal of this project is to create a website that allows users with specific dietary preferences, such as allergies or religious or ethical reasons, to easily find restaurants near them that cater to their needs.
 
-The project is currently in progress and the deadline for completion is the end of March. Consistent work will be done until that point to ensure the best possible outcome.
+The project is currently in progress and the deadline for completion is the end of March. 
 
 The project is built mainly with React.js, HTML, and CSS. It will also use MySQL for databases to store information about restaurants and login information.
 
