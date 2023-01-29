@@ -9,6 +9,7 @@ import SignIn from './pages/signin';
 import Results from './pages/results';
 import Privacy from './pages/privacy';
 import Sitemap from './pages/sitemap';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Route path='/privacy' element={<Privacy/>} />
         <Route path='/sitemap' element={<Sitemap/>} />
     </Routes>
+    <Footer />
     </Router>
   );
 }
