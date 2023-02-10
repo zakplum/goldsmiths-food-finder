@@ -4,7 +4,7 @@ import { NavLink as Link } from "react-router-dom";
 export const Box = styled.div`
   padding: 10px;
   background: white;
-  position: sticky;
+  position: relative;
   bottom: 0;
   @media (max-width: 1000px) {
     padding: 20px 10px;
