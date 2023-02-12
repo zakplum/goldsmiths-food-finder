@@ -11,6 +11,7 @@ import Privacy from './pages/privacy';
 import Sitemap from './pages/sitemap';
 import Footer from './components/Footer';
 
+
 function App() {
   return (
     <Router>
