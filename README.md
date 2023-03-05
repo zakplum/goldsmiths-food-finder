@@ -2,7 +2,7 @@
 
 The project is currently in progress and the deadline for completion is the end of March. 
 
-The project is built mainly with React.js, HTML, and CSS. It will also use MySQL for databases to store information about restaurants and login information.
+The project is built mainly with React.js, HTML, and CSS. It will also use MongoDB for databases to store information about restaurants and login information.
 
 Features
 - A website that allows users to easily find restaurants near them that cater to their specific dietary preferences, such as allergies or religious or ethical reasons
